@@ -1,8 +1,9 @@
-GRU Multivariate Time Series Forecasting
- Overview
+**GRU Multivariate Time Series Forecasting**
+
+Overview
 This project implements a Gated Recurrent Unit (GRU) model for multivariate time series forecasting. It demonstrates how deep learning can be applied to predict future values in sequential datasets such as stock prices, weather data, or IoT sensor readings. The repository showcases preprocessing, model training, evaluation, and visualization of results.
 
- Features
+Features
 Multivariate Input: Handles multiple correlated variables for improved forecasting accuracy.
 
 GRU Architecture: Efficient recurrent neural network designed for long-term dependencies.
@@ -13,7 +14,7 @@ Training Pipeline: End-to-end workflow with dataset loading, model training, and
 
 Performance Metrics: RMSE, MAE, and visualization of predicted vs actual values.
 
- Tech Stack
+Tech Stack
 Python 3.x
 
 TensorFlow / Keras
